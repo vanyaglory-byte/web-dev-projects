@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU+Guides&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Playwrite CU Guides", cursive;
+}
+
+body{
+    background: linear-gradient(135deg,#83a8df,#c3cfe2);
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+#generate-btn{
+    display: block;
+    margin: 0 auto 2rem auto;
+    background: linear-gradient(45deg,#667eea,#764ba2);
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+/* 🔥 BUTTON HOVER BACK */
+#generate-btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(102,126,234,0.4);
+}
+
+#generate-btn:active{
+    transform: translateY(0);
+}
+
+.palette-container{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit,minmax(150px,1fr));
+}
+
+.color-box{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 🔥 COLOR BOX HOVER BACK */
+.color-box:hover{
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.color{
+    height: 120px;
+    cursor: pointer;
+}
+
+.color-info{
+    background-color: #ffffff;
+    padding: 0.7rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.copy-btn{
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+/* 🔥 COPY ICON HOVER BACK */
+.copy-btn:hover{
+    color:#667eea;
+}
