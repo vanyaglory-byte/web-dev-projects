@@ -8,20 +8,18 @@ This project allows users to answer multiple-choice questions, track their score
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here after deployment)
-
-Example:
-https://yourusername.github.io/quiz-game/
+https://github.com/vanyaglory-byte/Web-Dev-Projects/general-knowledge-quiz-game/
 
 ---
 
 ## 📸 Screenshot
 
-(Add a screenshot of your project here)
+<img width="1803" height="846" alt="Screenshot 2026-02-14 085941" src="https://github.com/user-attachments/assets/29a3c7a7-f43e-4908-828c-87ba923162e9" />
 
-You can drag and drop an image directly into this README on GitHub.
+---<img width="1576" height="847" alt="Screenshot 2026-02-14 085956" src="https://github.com/user-attachments/assets/3d8c6d4b-dc1c-4870-ad63-5c698606a4f2" />
 
----
+<img width="1593" height="813" alt="Screenshot 2026-02-14 090023" src="https://github.com/user-attachments/assets/cb113770-5c4b-4cb6-ac96-6c7a5eb42f3a" />
+
 
 ## 🛠️ Technologies Used
 
@@ -45,4 +43,5 @@ You can drag and drop an image directly into this README on GitHub.
 ---
 
 ## 📂 Project Structure
+
 
