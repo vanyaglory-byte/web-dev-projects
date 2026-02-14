@@ -8,19 +8,19 @@ This application generates random color palettes and allows users to copy hex co
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here after deployment)
-
-Example:
-https://yourusername.github.io/color-palette-generator/
+https://colorpalettes-generator.netlify.app/
 
 ---
 
+
 ## 📸 Screenshot
 
-(Add a screenshot of your project here)
+<img width="1711" height="815" alt="Screenshot 2026-02-14 095221" src="https://github.com/user-attachments/assets/2ff3ad9b-541e-4986-a515-e4d128c3f420" />
 
-Tip:
-You can drag and drop an image directly into this README on GitHub.
+<img width="1714" height="854" alt="Screenshot 2026-02-14 095229" src="https://github.com/user-attachments/assets/4bc705b8-2fcc-47c4-9de8-402c2a3dedcc" />
+
+<img width="1585" height="822" alt="Screenshot 2026-02-14 095237" src="https://github.com/user-attachments/assets/98c8be10-3ad7-4327-9a9e-8ff68123a601" />
+
 
 ---
 
@@ -46,4 +46,5 @@ You can drag and drop an image directly into this README on GitHub.
 ---
 
 ## 📂 Project Structure
+
 
