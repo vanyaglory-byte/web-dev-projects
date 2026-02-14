@@ -8,7 +8,7 @@ This project allows users to answer multiple-choice questions, track their score
 
 ## 🚀 Live Demo
 
-https://github.com/vanyaglory-byte/Web-Dev-Projects/general-knowledge-quiz-game/
+https://github.com/vanyaglory-byte/Web-Dev-Projects/gernal%20knowledge%20quiz%20game/
 
 ---
 
@@ -43,5 +43,6 @@ https://github.com/vanyaglory-byte/Web-Dev-Projects/general-knowledge-quiz-game/
 ---
 
 ## 📂 Project Structure
+
 
 
